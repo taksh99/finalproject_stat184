@@ -1,7 +1,6 @@
 ---
 title: "Final Project"
 author: "Taksh Anand and Sadanidan Balamurugan"
-date: "3/27/20"
 output: 
     html_notebook:
     fig_height: 6
